@@ -20,10 +20,10 @@ An evolution of `port_scanner.py` using `ThreadPoolExecutor` (50 workers) to sca
 Each script is standalone and interactive — run it directly and follow the prompts:
 
 ```bash
-python3 ip_subnet_calculator.py
-python3 ping_sweep.py
-python3 port_scanner.py
-python3 port_scanner_threaded.py
+python3 1_ip_subnet_calculator.py
+python3 2_ping_sweep.py
+python3 3_port_scanner.py
+python3 4_port_scanner_threaded.py
 ```
 
 ## Platform Compatibility
