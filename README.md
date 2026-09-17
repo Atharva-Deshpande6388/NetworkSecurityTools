@@ -21,7 +21,7 @@ Each script is standalone and interactive — run it directly and follow the pro
 
 ```bash
 python3 1_ip_subnet_calculator.py
-python3 2_ping_sweep.py
+python3 2_pingsweep.py
 python3 3_port_scanner.py
 python3 4_port_scanner_threaded.py
 ```
